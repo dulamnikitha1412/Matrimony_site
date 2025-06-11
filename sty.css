@@ -1,0 +1,26 @@
+.c>p>a
+{
+    text-decoration:none;
+}
+.c>button>a{
+    text-decoration:none;
+}
+.c{
+    background-color:antiquewhite;
+    color:darkkhaki;
+    text-align: center;
+    border: 3px solid floralwhite;
+    font-family:monospace;
+    font-size:25px;
+    border-radius:5px;
+    margin:100px;
+    margin-top:18px 17px 22px;
+    margin-left:500px;
+    margin-right:500px;
+    display:inline-block;
+    height:300px;
+    width:305px;
+    float:right;
+   
+
+}
